@@ -6,7 +6,7 @@ how positive a review is. The higher the score, the more positive. It's currentl
 set at a scale of 1 to 5.
 
 ## History/Updates
-The [original script](https://github.com/nadiamoore315/sentiment_analysis/blob/main/sentimental_analysis.py) takes a specific store's reviews off of yelp and assigns them 
+[Original script](https://github.com/nadiamoore315/sentiment_analysis/blob/main/sentimental_analysis.py): takes a specific store's reviews off of yelp and assigns them 
 
 ## Future Version Ideas
 Future versions of this can include making the script more user-friendly,
