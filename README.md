@@ -8,6 +8,8 @@ set at a scale of 1 to 5.
 ## History/Updates
 [Original script](https://github.com/nadiamoore315/sentiment_analysis/blob/main/sentimental_analysis.py): takes a specific store's reviews off of yelp and assigns them 
 
+[Uodated script](https://github.com/nadiamoore315/sentiment_analysis/blob/main/sentimental_analysis_updated.py): allows user to specify which yelp website to analyze and also provides an average of the sentimental analysis
+
 ## Future Version Ideas
 Future versions of this can include making the script more user-friendly,
 with the website being able to be provided by a user through the terminal,
